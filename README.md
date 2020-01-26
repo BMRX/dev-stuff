@@ -6,6 +6,9 @@ Mostly I use "Night Owl" and what we see here is stuff from work, but I might ch
 
 [Command Prompt Screenshot](https://github.com/BMRX/dev-stuff/blob/master/screenshots/cmd.png) | [PuTTy Screenshot](https://github.com/BMRX/dev-stuff/blob/master/screenshots/putty-terminal.png)
 
+## Windows Settings
+Dark mode theme, Settings > Personalization > Colours 
+
 ## Terminal Aesthetics
 Bound to change, but this is how it is right now
 ```
