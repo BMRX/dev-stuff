@@ -18,22 +18,29 @@ Cursor - rgb: 22, 137, 219 | hex: #1689db
 ### Night Owl colours
 Mostly reference, source: https://github.com/pbomb/hyper-night-owl/blob/master/index.js
 ```
-Black: "#011627",
-Red: "#EF5350",
-Green: "#22da6e",
-Yellow: "#addb67",
-Blue: "#82aaff",
-Magenta: "#c792ea",
-Cyan: "#21c7a8",
-White: "#ffffff",
-Light Black: "#575656",
-Light Red: "#ef5350",
-Light Green: "#22da6e",
-Light Yellow: "#ffeb95",
-Light Blue: "#82aaff",
-Light Magenta: "#c792ea",
-Light Cyan: "#7fdbca",
-Light White: "#ffffff"
+Black - rgb: 1, 22, 39 | hex: #011627
+Light Black - rgb: 87, 86, 86 | hex: #575656
+
+Red - rgb: 239, 83, 80 | hex: #EF5350
+Light Red - rgb: 239, 83, 80 | hex: #EF5350
+
+Green - rgb: 34, 218, 110 | hex: #22dA6E
+Light Green - rgb: 34, 218, 110 | hex: #22dA6E
+
+Yellow - rgb: 173, 219, 103 | hex: #ADDB67
+Light Yellow - rgb: 255, 235, 149 | hex: #FFEb95
+
+Blue - rgb: 130, 170, 255 | hex: #82AAFF
+Light Blue - rgb: 130, 170, 255 | hex: #82AAFF
+
+Magenta - rgb: 199, 146, 234 | hex: #C792EA
+Light Magenta - rgb: 199, 146, 234 | hex: #C792EA
+
+Cyan - rgb: 33, 199, 168 | hex: #21C7A8
+Light Cyan - rgb: 127, 219, 202 | hex: #7FDBCA
+
+White - rgb: 255, 255, 255 | hex: #ffffff
+Light White - rgb: 255, 255, 255 | hex:  #ffffff
 ```
 
 ### TODO
