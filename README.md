@@ -1,4 +1,4 @@
-#dev-stuff
+# dev-stuff
 So I'm still learning git, but here I'll outline some of my stuff.
 This is just to help myself keep a consistent theme from work to home. Probably not the best way to do this or even the easiest but I'm still learning and this is an excuse to use git right now.
 
