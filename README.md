@@ -4,6 +4,8 @@ This is just to help myself keep a consistent theme from work to home. Probably 
 
 Mostly I use "Night Owl" and what we see here is stuff from work, but I might change that up to the blue scheme I have at home.
 
+[Command Prompt Screenshot](https://github.com/BMRX/dev-stuff/blob/master/screenshots/cmd.png) | [PuTTy Screenshot](https://github.com/BMRX/dev-stuff/blob/master/screenshots/putty-terminal.png)
+
 ## Terminal Aesthetics
 Bound to change, but this is how it is right now
 ```
