@@ -2,7 +2,7 @@
 So I'm still learning git, but here I'll outline some of my stuff.
 This is just to help myself keep a consistent theme from work to home. Probably not the best way to do this or even the easiest but I'm still learning and this is an excuse to use git right now.
 
-Mostly I use "Night Owl" and what we see here is stuff from home, but I might change that up to the blue scheme I have at home.
+Mostly I use "Night Owl" and what we see here is stuff from work, but I might change that up to the blue scheme I have at home.
 
 ## Terminal Aesthetics
 Bound to change, but this is how it is right now
